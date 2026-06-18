@@ -121,7 +121,7 @@ print(f"  [P] = {sol.y[2,-1]:.4f}")
 
 ## Hasil Simulasi
 
-![Simulasi Metabolik](Simulasi_Model_Kinetik.png)
+![Simulasi Metabolik](SimulasiModelKinetik.png)
 
 ### Nilai Steady-State (t = 50)
 
