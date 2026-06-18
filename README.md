@@ -107,7 +107,7 @@ ax.set_title('Simulasi Dinamika Sistem Metabolik dengan\nInhibisi Feedback Non-K
 ax.legend(fontsize=12)
 ax.grid(True, alpha=0.3)
 plt.tight_layout()
-plt.savefig('simulasi_metabolik.png', dpi=150)
+plt.savefig('Simulasi Model Kinetik.png', dpi=150)
 plt.show()
 
 # Nilai steady-state
@@ -121,7 +121,7 @@ print(f"  [P] = {sol.y[2,-1]:.4f}")
 
 ## Hasil Simulasi
 
-![Simulasi Metabolik](simulasi_metabolik.png)
+![Simulasi Metabolik](Simulasi Model Kinetik.png)
 
 ### Nilai Steady-State (t = 50)
 
